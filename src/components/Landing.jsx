@@ -207,7 +207,7 @@ const BookingCard = ({ isDesktop }) => (
           <DateRange
             editableDateInputs
             onChange={handleDateSelect}
-            moveRangeOnFirstSelection={false}
+            moveRangeOnFirstSelection={false}i
             ranges={dateRange}
             className="bg-white shadow-xl border rounded-lg"
           />

@@ -7,6 +7,7 @@ import ExperienceSection from './components/Experience'
 import TestimonialSection from './components/Testimonial'
 import Contactus from './components/Contactus'
 import Footer from './components/Footer'
+import Gallery from './components/Gallery'
 const navItems = [
   { label: "Home", active: true },
   { label: "Destinations", active: false },
@@ -42,7 +43,9 @@ function App() {
 <Trips />
 <ExperienceSection/>
 <TestimonialSection/>
+<Gallery/>
 <Contactus/>
+
 <Footer/>
     </>
   );
