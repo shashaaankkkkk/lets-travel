@@ -13,7 +13,7 @@ function Footer() {
 
         {/* Center */}
         <div className="text-white text-sm">
-          Made with <span className="text-red-500">❤️</span> | © 2025 Tilchattas Agency
+          Made with <span className="text-red-500">❤️</span> | © 2025 Shaslolav Agency
         </div>
 
         {/* Right */}
